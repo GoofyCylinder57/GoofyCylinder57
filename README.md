@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GoofyCylinder57
-- 👀 I’m interested in things (and stuff too)
-- 🌱 I’m currently learning javascript, node.js, HTML, and css
-- 💞️ I’m not currently looking to collaborate on anything :(
-- 📫 How to reach me nicole.rasmussen128@proton.me
+- Hi, I’m Tetra! (@GoofyCylinder57
+- I’m interested in things (and stuff too)
+- I’m currently learning Rust, Zig, Javascript (+TS), and HTML+CSS
+- I’m not currently looking to collaborate on anything :(
+- How to reach me: nicole.rasmussen128@proton.me
